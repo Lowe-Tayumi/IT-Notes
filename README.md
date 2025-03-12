@@ -14,7 +14,9 @@ _softbreak_.
 
 Here are examples of linked text:  
 [SKZ YT Channel](https://www.youtube.com/c/StrayKids/videos)  
-[YellowJackets][link]  
+Here is another link [YellowJackets][link]  
+
+
 [link]: https://g.co/kgs/n2hV7DR
 
 
